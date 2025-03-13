@@ -50,6 +50,6 @@ void blinkSimasha() {
 }
 
 void loop() {
-  blinkSimasha(); // Call the function to blink your name
+  blinkSimasha(); // Call the function 
   delay(3000);    // Wait before repeating
 }
